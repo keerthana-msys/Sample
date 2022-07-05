@@ -17,7 +17,7 @@ class UserList extends React.Component {
     }
 
     render(){
-        let { users } = this.props.users;
+        let users = this.props.users;
        return (<>
             <Header />
             <div className="list-container">    

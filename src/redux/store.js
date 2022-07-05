@@ -1,11 +1,10 @@
 import { configureStore, getDefaultMiddleware } from '@reduxjs/toolkit';
 // import { } from '@reduxjs/toolkit/dist/devtoolsExtension';
 // import thunkMiddleware from 'redux-thunk';
-import { reducer } from './reducer';
+import { reducer } from "./reducer";
 
 // const middleware = [ thunkMiddleware ];
-// const middlewareEnhancer = applyMiddleware(...middleware);
-
+// const middlewareEnhancer = applyMiddleware(...middleware)
 // const enhancers = [ middlewareEnhancer ];
 // const composedEnhancers = composeWithDevTools(...enhancers)
 
